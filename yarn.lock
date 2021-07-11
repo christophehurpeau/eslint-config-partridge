@@ -1317,7 +1317,7 @@ __metadata:
     "@pob/eslint-config": ^45.0.2
     eslint: 7.30.0
     eslint-config-airbnb: ^18.2.1
-    eslint-config-prettier: ^7.1.0
+    eslint-config-prettier: ^8.0.0
     eslint-plugin-import: ^2.22.1
     eslint-plugin-jsx-a11y: ^6.4.1
     eslint-plugin-react: ^7.23.1
@@ -1348,7 +1348,7 @@ __metadata:
     "@typescript-eslint/parser": ^4.19.0
     eslint: 7.30.0
     eslint-config-airbnb-base: ^14.2.1
-    eslint-config-prettier: ^7.1.0
+    eslint-config-prettier: ^8.0.0
     eslint-plugin-import: ^2.22.1
     eslint-plugin-node: ^11.1.0
   peerDependencies:
@@ -1376,7 +1376,7 @@ __metadata:
     "@pob/use-eslint-plugin": ^45.0.0
     eslint: 7.30.0
     eslint-config-airbnb-base: ^14.2.1
-    eslint-config-prettier: ^7.1.0
+    eslint-config-prettier: ^8.0.0
     eslint-plugin-import: ^2.22.1
     eslint-plugin-node: ^11.1.0
     eslint-plugin-unicorn: ^34.0.1
@@ -3016,14 +3016,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^7.1.0":
-  version: 7.1.0
-  resolution: "eslint-config-prettier@npm:7.1.0"
+"eslint-config-prettier@npm:^8.0.0":
+  version: 8.3.0
+  resolution: "eslint-config-prettier@npm:8.3.0"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: 968a1166c3c14ac769b5bd30192dfc81f02319e565a907f1299ae1322eccf836ebaab5a7ebdb5ceefc35b65f5c9d781e5bb92a72bf299d2dde4353b5a828a0f3
+  checksum: 94ccbb50fb67e5e47e8ba6cfa257b5cbf53619990ab13f46b99518cfe9b900394b93bdf6ffedbde1a8e2997d301b0fbd73a6b4202146bc53475dfb30a8c812f2
   languageName: node
   linkType: hard
 
